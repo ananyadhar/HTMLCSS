@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "practicehtmlcss-91053",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
